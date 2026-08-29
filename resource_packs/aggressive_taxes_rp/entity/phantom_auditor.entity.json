@@ -1,0 +1,21 @@
+{
+  "format_version": "1.10.0",
+  "client_entity": {
+    "description": {
+      "identifier": "tax:phantom_auditor",
+      "materials": {
+        "default": "entity_alphablend"
+      },
+      "textures": {
+        "default": "textures/entity/phantom_auditor"
+      },
+      "geometry": {
+        "default": "geometry.phantom_auditor"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "enable_attachables": true
+    }
+  }
+}

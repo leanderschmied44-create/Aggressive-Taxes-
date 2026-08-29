@@ -1,0 +1,21 @@
+{
+  "format_version": "1.10.0",
+  "client_entity": {
+    "description": {
+      "identifier": "tax:tax_collector",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/tax_collector"
+      },
+      "geometry": {
+        "default": "geometry.tax_collector"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "enable_attachables": true
+    }
+  }
+}

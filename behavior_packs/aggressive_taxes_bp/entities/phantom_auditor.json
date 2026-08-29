@@ -1,0 +1,38 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "tax:phantom_auditor",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": ["phantom_auditor", "mob", "monster", "phantom"]
+      },
+      "minecraft:health": {
+        "value": 20,
+        "max": 20
+      },
+      "minecraft:fire_immune": {},
+      "minecraft:flying_speed": {
+        "value": 0.3
+      },
+      "minecraft:movement.fly": {},
+      "minecraft:navigation.fly": {
+        "can_path_over_water": true
+      },
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 1.8
+      },
+      "minecraft:nameable": {
+        "always_show": true
+      },
+      "minecraft:physics": {
+        "has_gravity": false
+      }
+    }
+  }
+}

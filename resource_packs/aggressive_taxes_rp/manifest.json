@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Aggressive Taxes & IRS Mobs RP",
+    "description": "Resources and real textures for Tax Collector and Phantom Auditor mobs.",
+    "uuid": "d4e5f6a1-b2c3-4d4e-1f5a-6b7c8d9e0f1a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e5f6a1b2-c3d4-4e5f-2a6b-7c8d9e0f1a2b",
+      "version": [1, 0, 0]
+    }
+  ]
+}

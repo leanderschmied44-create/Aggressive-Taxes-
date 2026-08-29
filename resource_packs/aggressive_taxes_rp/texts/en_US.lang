@@ -1,0 +1,4 @@
+entity.tax:tax_collector.name=Tax Collector
+entity.tax:phantom_auditor.name=Phantom Auditor
+effect.tax:audit=Audit
+effect.tax:audit.description=The IRS is auditing your farm! Phantom Auditors will spawn and incinerate your crops.
